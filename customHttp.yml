@@ -1,0 +1,13 @@
+# Custom headers when serving docs through Amplify Hosting
+#
+# See: https://docs.aws.amazon.com/amplify/latest/userguide/custom-headers.html#setting-custom-headers
+
+customHeaders:
+  - pattern: "**/*.raw.html"
+    headers:
+      - key: Access-Control-Allow-Origin
+        value: "*"
+  - pattern: "**/*"
+    headers:
+      - key: Cache-Control
+        value: s-maxage=600
