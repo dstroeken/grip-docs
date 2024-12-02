@@ -12,6 +12,6 @@ Om een beeld te krijgen van de stikstofproblematiek in relatie tot natuur, worde
 
 ### Gegevens exporteren 
 
-De gegevens in AERIUS Monitor zijn als json en als geopackage te downloaden. 
-* Ga naar de [AERIUS Monitor API](https://fame-demo.aerius.nl/api/swagger-ui/index.html) om de gegevens die AERIUS Monitor gebruikt, te downloaden als json. 
-* Download hier een [geopackage](https://nexus.aerius.nl/repository/website-resources/grip/geopackage-monitor_2024-11-29_1531.zip) (557 MB) met de stikstofbelasting en KDW voor ieder zoom level 1 hexagon, per dataset en jaar.
+De gegevens in AERIUS Monitor zijn als JSON en als GeoPackage te downloaden. 
+* Ga naar de [AERIUS Monitor API](https://fame-demo.aerius.nl/api/swagger-ui/index.html) om de gegevens die AERIUS Monitor gebruikt, te downloaden als JSON. 
+* Download hier een [GeoPackage](https://nexus.aerius.nl/repository/website-resources/grip/geopackage-monitor_2024-11-29_1531.zip) (557 MB) met de stikstofbelasting en KDW voor ieder zoom level 1 hexagon, per dataset en jaar.
