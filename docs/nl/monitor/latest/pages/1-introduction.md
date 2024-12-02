@@ -9,3 +9,9 @@ Om een beeld te krijgen van de stikstofproblematiek in relatie tot natuur, worde
 - **De hoeveelheid stikstofdepositie binnen Natura 2000-gebieden:** hoe groot is de omvang van de stikstofdepositie binnen een gebied, of op een specifieke hectare binnen een gebied? En hoe is deze stikstofdepositie opgebouwd? Deze informatie is beschikbaar voor alle Natura 2000-gebieden, dus ook voor de plekken die niet stikstofgevoelig zijn. Dit zorgt voor een volledig kaartbeeld. De totale depositie die Monitor toont voor de huidige situatie, is ook terug te vinden in AERIUS Calculator.
 
 - **De relatie tussen stikstofgevoelige habitattypen en depositie:** AERIUS Monitor combineert de beschikbare natuurgegevens (hoe stikstofgevoelig is een habitattype) met de berekende depositiegegevens. Zo geeft AERIUS Monitor direct inzicht in de mate van overbelasting binnen Natura 2000-gebieden of op specifieke hectares. Dit maakt inzichtelijk op welke van de relevante hexagonen, daadwerkelijk sprake is van een (bijna) overbelaste situatie, en voor welke habitattypen dat dan geldt.
+
+### Gegevens exporteren 
+
+De gegevens in AERIUS Monitor zijn als JSON en als GeoPackage te downloaden. 
+* Ga naar de [AERIUS Monitor API](https://fame-demo.aerius.nl/api/swagger-ui/index.html) om de gegevens die AERIUS Monitor gebruikt, te downloaden als JSON. 
+* Download hier een [GeoPackage](https://nexus.aerius.nl/repository/website-resources/grip/geopackage-monitor_2024-11-29_1531.zip) (557 MB) met de stikstofbelasting en KDW voor ieder zoom level 1 hexagon, per dataset en jaar.
