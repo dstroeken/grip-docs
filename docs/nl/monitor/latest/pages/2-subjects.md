@@ -24,7 +24,8 @@ Om bij elk onderwerp de gewenste informatie op de kaart te zien is het mogelijk 
 In de selector is het mogelijk om via het pijltje naar beneden een optielijst te openen en daar een keuze uit te maken. De pijltjes naast de lijst maken het mogelijk om de voorgaande optie te selecteren (pijltje naar links) of de volgende (pijltje naar rechts.
 De volgende selectie opties zijn mogelijk:
 - Kies voor dataset M23 (monitoringsronde 2023) of M24 (monitoringsronde 2024)
-- Selecteer een natuurgebied door een gebied uit de lijst aan te klikken of te kiezen voor 'Alle natuurgebieden' en dan OF op één van de punten op de kaart te klikken OF een voortouwnemer te kiezen uit de lijst en daaronder het natuurgebied aan te klikken
+- Selecteer een natuurgebied door een gebied uit de lijst aan te klikken of te kiezen voor 'Alle natuurgebieden' en dan OF op één van de punten op de kaart te klikken OF een voortouwnemer te kiezen uit de lijst en daaronder het natuurgebied aan te klikken.
+  
 Voor sommige onderwerpen is het mogelijk om:
 - na keuze voor een natuurgebied een selectie te maken voor een habitat/ leefgebied.
 - een jaar te kiezen
