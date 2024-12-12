@@ -10,4 +10,4 @@ Het getal rechts van de staven is het 90-percentiel van de voorkomende depositie
 Het getal links van de staaf is het 10-percentiel van de voorkomende depositiewaarden. Dit betekent dat voor 10% van alle beschouwde hexagonen geldt dat de depositie lager is dan of gelijk aan deze waarde.
 Indien er tien of minder hexagonen aanwezig zijn dan wordt de roze balk met percentielwaarden niet getoond.
 
-\* Deze jaren zijn op een afwijkende manier berekend: op basis van hexagonen met een oppervlak van 16 hectare in plaats van de voor de andere jaren gebruikte hexagonen van 1 hectare. Hierdoor kan voor met name de kleinere natuurgebieden een sprong optreden in de getoonde trend.2-development
+\* Deze jaren zijn op een afwijkende manier berekend: op basis van hexagonen met een oppervlak van 16 hectare in plaats van de voor de andere jaren gebruikte hexagonen van 1 hectare. Hierdoor kan voor met name de kleinere natuurgebieden een sprong optreden in de getoonde trend.
