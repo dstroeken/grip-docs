@@ -1,3 +1,17 @@
-# Target Area
+# Doel en doelgebied
 
-Placeholder content for Target Area documentation.
+## Wat is een doelgebied?
+Uw strategie zal leiden tot veranderingen in stikstofdepositie. U kunt deze verandering doorrekenen op natuurgebieden naar eigen keuze. Het natuurgebied waarvoor u de strategie doorrekent noemen wij het **doelgebied**; voor dit gebied krijgt u de resultaten gepresenteerd. U kunt ook meerdere natuurgebieden kiezen, en voor al deze gebieden de resultaten bekijken
+
+In de keuzelijst aan de linkerkant kunt u een selectie maken uit de Natura2000-gebieden in Nederland. U kunt ook op de kaart uw gewenste doelgebieden selecteren.
+
+## Koppel een doel aan het doelgebied
+Per doelgebied kunt u vervolgens ook een doel kiezen. Mogelijk zijn er beleidsdoelen voor dit natuurgebied, of heeft u een eigen doel dat u met de strategie wilt bereiken. U kunt zelf kiezen welk doel u voor het doelgebied wilt invoeren. Hiervoor heeft u verschillende opties.
+
+|Type doel|Omschrijving|
+|---|---|
+|Depositiereductie|Stel als doel om de totale stikstofdepositie op het doelgebied te verminderen. U kunt een keuze maken voor een vermindering van de depositievracht of de gemiddelde depositie.<br><br>De depositievracht is de optelsom van de jaarlijkse stikstofdepositie op het gehele doelgebied (mol/jaar). U kunt kiezen om een absolute reductie in te voeren (in mol/jaar) of een relatieve vermindering (in %) t.o.v. het basisjaar 2022. U kunt ook kiezen hoeveel de gemiddelde depositie moet afnemen (in mol/hectare/jaar). De gemiddelde depositie is hetzelfde als de depositievracht gedeeld door het oppervlakte (in hectares) van uw doelgebied.|
+|Minimale reductie op alle hectares natuur|Stel als doel om op alle hexagonen in uw natuurgebied minimaal een bepaalde reductie te behalen. Voer een reductie in die u minimaal wilt terugzien op alle hexagonen (hectares) in het natuurgebied. Voert u bijvoorbeeld 100 mol/ha/j in, dan haalt u het doel als op iedere hexagoon een reductie wordt behaald van ten minste 100 mol/ha/j.|
+|Gebiedsnorm|Stel een doel voor de gemiddelde depositie op uw doelgebied. Voer een gebiedsnorm in (in mol/hectare/jaar),  u haalt dit doel als de gemiddelde depositie op uw doelgebied beneden deze norm uitkomt|
+|Depositienorm|Met deze optie kunt u uw eigen variant op de KDW opstellen, en kijken hoeveel oppervlakte van uw doelgebied deze norm zal halen. <br><br>Er zijn drie invoervelden. Middels het eerste invoerveld (factor) wordt de KDW aangepast. De KDW wordt vermenigvuldigd met de factor die u invult. Vult u 1.0 in, dan blijft de KDW intact. Vult u 2.0 in, dan worden de KDW’s van alle habitats met 2 vermenigvuldigd. <br>Het tweede invoerveld is de verhogingslimiet. Hiermee kunt u instellen tot welk niveau de KDW’s maximaal verhoogd kunnen worden. Komt de vermenigvuldiging van een KDW eigenlijk boven deze limiet uit? Dan wordt de norm aangepast tot limiet die u heeft ingevuld. Komt de vermenigvuldiging uit op een waarde onder deze limiet? Dan is die uitkomst de norm die gehanteerd wordt. De KDW’s boven deze limiet zullen niet verhoogd of verlaagd worden.<br>Met de eerste twee invoervelden maakt u uw eigen depositienorm, op basis van de KDW. Met het laatste invoerveld (oppervlakte), wordt het uiteindelijke doel bepaald: hoeveel % oppervlakte van het doelgebied moet aan deze depositienorm gaan voldoen?<br><br>**Tip** Om een doel op basis van de normale KDW in te stellen, stelt u in:<br>factor = 1.0<br>verhogingslimiet = 0<br>en uw gewenste doeloppervlakte.|
+|Vrij tekstveld|Wilt u geen kwantitatief doel doorrekenen? Dan kunt u in dit tekstveld uw eigen intentie voor het gebruik van GRIP noteren, en kunt u verdergaan met het opstellen van maatregelen. Vervolgens kunt u gewoon de resultaten van uw strategie bekijken, maar zal er geen check plaatsvinden op het halen van het doel.|
