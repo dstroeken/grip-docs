@@ -1,17 +1,60 @@
-# Doel en doelgebied
-
 ## Wat is een doelgebied?
-Uw strategie zal leiden tot veranderingen in stikstofdepositie. U kunt deze verandering doorrekenen op natuurgebieden naar eigen keuze. Het natuurgebied waarvoor u de strategie doorrekent noemen wij het **doelgebied**; voor dit gebied krijgt u de resultaten gepresenteerd. U kunt ook meerdere natuurgebieden kiezen, en voor al deze gebieden de resultaten bekijken
+Een **doelgebied** is het Natura 2000-gebied waarop u de effecten van uw strategie wilt analyseren. Voor dit doelgebied krijgt u de stikstofdepositie in meerdere varianten: in het basisjaar 2023, in een prognosejaar en na het doorvoeren van uw strategie. U kunt een of meerdere doelgebieden kiezen, en voor al deze gebieden de resultaten bekijken.
 
-In de keuzelijst aan de linkerkant kunt u een selectie maken uit de Natura2000-gebieden in Nederland. U kunt ook op de kaart uw gewenste doelgebieden selecteren.
+In de keuzelijst kunt u een selectie maken uit de Natura 2000-gebieden in Nederland. U kunt ook rechtstreeks op de kaart uw gewenste doelgebieden selecteren.
+## Doelen kiezen: vijf opties
+Per doelgebied kunt u een doel kiezen. Mogelijk zijn er beleidsdoelen voor dit natuurgebied, of heeft u een eigen doel dat u met de strategie wilt bereiken. Er zijn vijf verschillende opties.
 
-## Koppel een doel aan het doelgebied
-Per doelgebied kunt u vervolgens ook een doel kiezen. Mogelijk zijn er beleidsdoelen voor dit natuurgebied, of heeft u een eigen doel dat u met de strategie wilt bereiken. U kunt zelf kiezen welk doel u voor het doelgebied wilt invoeren. Hiervoor heeft u verschillende opties.
+1. ### Depositiereductie op gehele natuurgebied
 
-|Type doel|Omschrijving|
-|---|---|
-|Depositiereductie|Stel als doel om de totale stikstofdepositie op het doelgebied te verminderen. U kunt een keuze maken voor een vermindering van de depositievracht of de gemiddelde depositie.<br><br>De depositievracht is de optelsom van de jaarlijkse stikstofdepositie op het gehele doelgebied (mol/jaar). U kunt kiezen om een absolute reductie in te voeren (in mol/jaar) of een relatieve vermindering (in %) t.o.v. het basisjaar 2022. U kunt ook kiezen hoeveel de gemiddelde depositie moet afnemen (in mol/hectare/jaar). De gemiddelde depositie is hetzelfde als de depositievracht gedeeld door het oppervlakte (in hectares) van uw doelgebied.|
-|Minimale reductie op alle hectares natuur|Stel als doel om op alle hexagonen in uw natuurgebied minimaal een bepaalde reductie te behalen. Voer een reductie in die u minimaal wilt terugzien op alle hexagonen (hectares) in het natuurgebied. Voert u bijvoorbeeld 100 mol/ha/j in, dan haalt u het doel als op iedere hexagoon een reductie wordt behaald van ten minste 100 mol/ha/j.|
-|Gebiedsnorm|Stel een doel voor de gemiddelde depositie op uw doelgebied. Voer een gebiedsnorm in (in mol/hectare/jaar),  u haalt dit doel als de gemiddelde depositie op uw doelgebied beneden deze norm uitkomt|
-|Depositienorm|Met deze optie kunt u uw eigen variant op de KDW opstellen, en kijken hoeveel oppervlakte van uw doelgebied deze norm zal halen. <br><br>Er zijn drie invoervelden. Middels het eerste invoerveld (factor) wordt de KDW aangepast. De KDW wordt vermenigvuldigd met de factor die u invult. Vult u 1.0 in, dan blijft de KDW intact. Vult u 2.0 in, dan worden de KDW’s van alle habitats met 2 vermenigvuldigd. <br>Het tweede invoerveld is de verhogingslimiet. Hiermee kunt u instellen tot welk niveau de KDW’s maximaal verhoogd kunnen worden. Komt de vermenigvuldiging van een KDW eigenlijk boven deze limiet uit? Dan wordt de norm aangepast tot limiet die u heeft ingevuld. Komt de vermenigvuldiging uit op een waarde onder deze limiet? Dan is die uitkomst de norm die gehanteerd wordt. De KDW’s boven deze limiet zullen niet verhoogd of verlaagd worden.<br>Met de eerste twee invoervelden maakt u uw eigen depositienorm, op basis van de KDW. Met het laatste invoerveld (oppervlakte), wordt het uiteindelijke doel bepaald: hoeveel % oppervlakte van het doelgebied moet aan deze depositienorm gaan voldoen?<br><br>**Tip** Om een doel op basis van de normale KDW in te stellen, stelt u in:<br>factor = 1.0<br>verhogingslimiet = 0<br>en uw gewenste doeloppervlakte.|
-|Vrij tekstveld|Wilt u geen kwantitatief doel doorrekenen? Dan kunt u in dit tekstveld uw eigen intentie voor het gebruik van GRIP noteren, en kunt u verdergaan met het opstellen van maatregelen. Vervolgens kunt u gewoon de resultaten van uw strategie bekijken, maar zal er geen check plaatsvinden op het halen van het doel.|
+**Doel:** Verminderen van stikstofdepositie. 
+
+Dit kunt u op twee manieren uitdrukken: vermindering van de depositievracht, of van de gemiddelde depositie. 
+**Depositievracht:** Totale jaarlijkse stikstofdepositie in het gehele gebied. Voer het doel in, uitgedrukt in:
+
+1. Absolute reductie (mol N/j)  
+   2. relatieve reductie t.o.v. 2023 (%)
+
+**Gemiddelde depositie:** Depositievracht gedeeld door de oppervlakte van de stikstofgevoelige natuur in het gebied. Dit doel is uitgedrukt in mol N/ha/j.
+
+2. ### Minimale reductie op ieder hexagoon
+
+**Doel**: Minimale afname van stikstofdepositie op ieder hexagoon. 
+
+Voer de depositieverandering in die u minimaal wilt terugzien op alle hexagonen in het natuurgebied. Voert u bijvoorbeeld 100 mol N/ha/j in, dan haalt u het doel als iedere hexagoon een gemiddelde reductie noteert van ten minste 100 mol N/ha/j.
+
+Let op: GRIP werkt met hexagonen van 16 hectare (gelijk aan Aerius zoom-level 3). Het gemiddelde van een hexagoon is dus het gemiddelde van deze 16 hectare.
+
+3. ### Gebiedsnorm
+
+**Doel:** Gemiddelde depositie onder norm voor het gehele gebied.
+
+Uw strategie slaagt als de gemiddelde depositie van het gehele gebied onder uw ingevoerde norm (in mol N/ha/j) uitkomt. Het verschil met het depositiereductie-doel, dat ook rekent het de gemiddelde depositie op het gehele gebied, is dat de gebiedsnorm een plafond is voor de resterende depositie. Het reductiedoel stelt een doel voor de hoeveelheid afname.
+
+4. ### Depositienorm (geavanceerd)
+
+**Doel:** Kritische depositiewaarde (KDW) of eigen variant
+
+Met deze optie kunt u uw eigen variant op de KDW opstellen, en berekenen hoeveel oppervlakte van uw doelgebied deze norm zal halen. 
+
+Er zijn drie invoervelden. 
+
+1. **Factor**: Vermenigvuldiging van iedere KDW binnen het doelgebied  
+   * 1.0 \= ongewijzigde KDW  
+   * 1.1 \= KDW met 10% verhoogd  
+   * 2.0 \= KDW verdubbeld  
+2. **Verhogingslimiet**: Maximaal niveau voor KDW-aanpassing. Alle KDW’s onder dit niveau kunnen tot maximaal deze limiet verhoogd worden. KDW’s boven deze limiet blijven intact.  
+3. **Oppervlakte**: Percentage doelgebied dat aan nieuwe norm moet voldoen
+
+**Let op:** Wanneer er meerdere stikstofgevoelige habitats met verschillende KDW’s voorkomen op een hexagoon (16 hectare), dan wordt de strengste KDW gebruikt voor de gehele hexagoon. 
+
+\*\*Tip\*\* Om een doel op basis van de normale KDW in te stellen, stelt u in:  
+factor \= 1.0  
+verhogingslimiet \= 0  
+en uw gewenste doeloppervlakte.
+
+5. ### Tekstbox
+
+**Doel:** Andere intentie (in woorden)
+
+Wilt u geen getallen aan het doel koppelen, omschrijft u uw doel dan in eigen woorden.

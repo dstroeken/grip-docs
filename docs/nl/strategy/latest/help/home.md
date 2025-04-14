@@ -1,32 +1,52 @@
 # Strategie
 
-Op deze pagina kunt u uw eigen strategie vormgeven. Een strategie bestaat uit maatregelen, doelgebieden en doelen, en om te beginnen kiest u uitgangspunten. In dit scherm kunt u direct zien wat de optelsom van uw maatregelen is, zodat u de strategie eventueel direct kunt aanpassen. Wanneer de strategie af is kunt u de effecten op stikstofdepositie berekenen, dit zal enkele minuten duren. Daarna kunt u de resultaten bekijken
+Op deze pagina kunt u uw eigen strategie samenstellen. Een strategie bestaat uit maatregelen, doelgebieden en doelen. Terwijl u de strategie uitwerkt, wordt de totale emissiereductie van uw maatregelen getoond, zodat u de strategie direct kunt bijstellen.
 
 ## Uitgangspunten
-Voordat u maatregelen kunt aanmaken, moet u een keuze maken onder uitgangspunten. Hier moet u kiezen voor een dataset en een jaartal voor uw strategie.
 
-### Jaartal
-Kies hier voor in welk jaar u de effecten van uw strategie wilt berekenen. U kunt kiezen voor 2022, dat is het basisjaar, het jaar met de meest recente statistieken. U kunt ook kiezen voor 2030 of 2035. Voor deze jaren zijn prognosecijfers beschikbaar. Deze prognoses zijn de verwachte emissies per sector in de betreffende jaren, wanneer economische ontwikkelingen en de invloed van het bestaande beleid worden meegenomen (ook wel het basispad genoemd).
-  
-Wanneer u een prognosejaar kiest, zullen de resultaten van uw strategie met de emissie- en depositieprognoses van dat jaar vergeleken worden. Ook zullen deze prognoses zichtbaar zijn bij het aanmaken van uw maatregelen, zodat u kunt kiezen om de effecten van uw maatregelen bovenop het basispad te berekenen.
-De prognosecijfers kennen een grote onzekerheid, zeker nadat ze ruimtelijk zijn verdeeld over Nederland. Gebruik deze prognoses daarom niet te letterlijk voor een bepaalde locatie, maar als een indicatie van de gemiddelde verandering tov 2022.
+Voordat u maatregelen kunt aanmaken, kiest u twee uitgangspunten.
 
-**Tip**
-Kies het jaartal waarin u de effecten van uw strategie verwacht. Kies niet het startjaar van uw strategie, wanneer de effecten pas een paar jaar later zullen optreden.
+1. ### Jaartal
 
-### Dataset
+Kies het jaar waarin u de effecten van uw strategie wilt berekenen:
 
-Kies hier welke dataset er wordt gebruikt voor de emissie- en depositiestatistieken. Momenteel is alleen M23 beschikbaar. In de toekomst zullen er meerdere opties bijkomen.
+- **2023:** Het basisjaar met de meest recente statistieken  
+- **2030 of 2035:** Prognosejaren met verwachte emissies
 
-M23 staat voor Aerius Monitor 2023. [Zie hier](https://www.rivm.nl/bibliotheek/rapporten/2023-0280.pdf) de documentatie van Monitor 2023. 
+In de verwachte emissies van de prognosejaren is de invloed van economische ontwikkelingen en bestaand beleid meegenomen. Deze verwachte emissies zijn per sector beschikbaar en door het RIVM ruimtelijk verdeeld. Ook de verwachte stikstofdepositie is door het RIVM berekend voor deze prognosejaren.
+
+Kiest u een prognosejaar, dan zullen uw resultaten vergeleken worden met de stikstofdepositie voor dat jaar. De prognoses worden ook getoond bij het invullen van uw maatregelen. De emissies zullen dan standaard worden ingesteld op de emissies volgens de prognose. Vervolgens kunt u per sector kiezen een effect additioneel aan deze prognose door te rekenen, of de prognose te vervangen door een eigen inschatting. Onderaan staat meer uitleg over de prognosecijfers. 
+
+**Tip** Kies het jaartal waarin u de effecten van uw strategie verwacht. Kies niet het startjaar van uw strategie, wanneer de effecten pas een paar jaar later zullen optreden.
+
+2. ### Dataset
+
+Kies hier welke dataset er wordt gebruikt voor de stikstofemissie en \-depositie. Momenteel is alleen M23 beschikbaar. In de toekomst zullen er meerdere opties bijkomen.
+
+M23 staat voor Aerius Monitor 2023\. [Zie hier](https://www.rivm.nl/bibliotheek/rapporten/2023-0280.pdf) de documentatie van Monitor 2023\. 
 
 ## Doel en Doelgebied
-Het doel van de strategie is om de stikstofdepositie in Nederland omlaag te brengen. De resultaten van de strategie laten zien wat de strategie betekent voor de depositie op een zelf gekozen Natura2000-gebied. Het Natura2000-gebied dat u kiest noemen we uw doelgebied. U kunt meerdere doelgebieden kiezen, en de effecten van uw strategie op al deze doelgebieden bekijken.
 
-Per doelgebied kunt u vervolgens ook een doel instellen. In de resultaten zult u zien of uw strategie dit doel behaalt. U kunt kiezen uit meerdere type doelen, die voor ieder doelgebied kunnen verschillen. 
+GRIP laat zien hoe de stikstofdepositie op Natura 2000-gebieden relateert aan stikstofemissie op bepaalde locaties. Het Natura2000-gebied dat u kiest noemen we uw doelgebied. U kunt meerdere doelgebieden kiezen, en de effecten van uw strategie op al deze doelgebieden bekijken.
+
+Per doelgebied kunt u vervolgens ook een doel instellen. GRIP laat zien in hoeverre uw strategie dit doel zal halen. U kunt kiezen uit meerdere typen doelen, die voor ieder doelgebied kunnen verschillen. 
 
 ## Maatregelen
-Voeg één of meerdere maatregelen toe, en geef per maatregel aan welk effect deze maatregel in het gekozen jaar zal hebben. Bij het aanmaken van een maatregel kies je in welk toepassingsgebied deze maatregel emissies gaat reduceren. U kunt hier een keuze maken uit bestaande geometrieën, zoals gemeenten of wijken, maar u kunt ook uw eigen toepassingsgebied tekenen. De stikstofemissies binnen dit gebied worden per sector gepresenteerd. Vervolgens kunt u kiezen welke emissies u wilt aanpassen met uw maatregel. U kunt meerdere maatregelen aanmaken, of de resultaten berekenen wanneer u minstens één maatregel heeft opgeslagen.
+
+Voeg één of meerdere maatregelen toe, en geef per maatregel aan welk effect deze maatregel in het gekozen jaar zal hebben. Voeg maatregelen toe door:
+
+1. Een toepassingsgebied te kiezen. U kunt een keuze maken uit:  
+   1. bestaande geometrieën (gemeenten, wijken)  
+   2. een zelf getekend gebied  
+2. De emissies per sector binnen dit toepassingsgebied bekijken  
+3. Aan te geven welk effect uw maatregel heeft op deze emissies. 
+
+U kunt meerdere maatregelen aanmaken, die binnen verschillende sectoren of toepassingsgebieden de emissies kunnen reduceren.
 
 ## Resultaten
-Klik op **Bereken resultaten** om uw strategie door te rekenen naar stikstofdepositie. Druk op **Bekijk** om naar de weergave van de resultaten te gaan.
+
+Het totale effect van uw maatregelen wordt weergegeven. Wanneer dit naar tevredenheid is, kunt u de depositieresultaten berekenen per doelgebied. Hiervoor kiest u **Bereken resultaten.** Resultaten kunnen worden berekend zodra u minstens één maatregel heeft opgeslagen. De berekening zal 3 tot 15 minuten kunnen duren, dus . Druk op **Bekijk** om naar de weergave van de resultaten te gaan.
+
+## Prognosecijfers
+
+De prognosecijfers kennen een grote onzekerheid, zeker nadat ze ruimtelijk zijn verdeeld over Nederland. De ontwikkeling van de emissies volgt de ontwikkeling van de gehele sector, dat hoeft \= voor een specifieke locatie niet representatief te zijn.  
