@@ -1,8 +1,6 @@
-# Toepassingsgebied
+# Wat is een toepassingsgebied?
 
-## Wat is een  toepassingsgebied?
-
-Het toepassingsgebied bepaalt de locatie waar u de stikstofemissies wilt veranderen. Door eerst een toepassingsgebied te kiezen, kan GRIP tonen hoeveel reactief stikstof er in dat gebied (per sector) uitgestoten wordt. Deze emissies kunnen vervolgens met een maatregel worden aangepast.  
+Het toepassingsgebied bepaalt de locatie waar u de stikstofemissies wilt veranderen. Door eerst een toepassingsgebied te kiezen, kan GRIP tonen hoeveel reactief stikstof er in dat gebied (per sector) uitgestoten wordt. Deze emissies kunnen vervolgens met een maatregel worden aangepast.
 Het vormt de geografische basis voor uw maatregel door:
 
 - te tonen hoeveel stikstof in dat gebied wordt uitgestoten door iedere sector  

@@ -1,3 +1,4 @@
+# Resultaten: Doel
 ## **Wat ziet u op dit scherm?**
 
 Dit resultaatscherm laat zien of u uw doelen haalt met de maatregelen in uw strategie. Per doel (en doelgebied) wordt getoond of het doel gehaald wordt en wat het resultaat is.

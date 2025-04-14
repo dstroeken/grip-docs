@@ -8,6 +8,6 @@ Momenteel is er maar één type beschikbaar: emissiereductie. Andere typen maatr
 
 - Bekijk de emissies per sector binnen uw toepassingsgebied, voor het gekozen jaartal.  
 - Gebruik de schuifjes om handmatig de emissies per sector aan te passen binnen het toepassingsgebied  
-- Schakel tussen verschillende stoffen (NO\<sub\>x\</sub\> en NH\<sub\>3\</sub\>) om van beide stoffen de emissies te reduceren.  
+- Schakel tussen verschillende stoffen (NO<sub>x</sub> en NH<sub>3</sub>) om van beide stoffen de emissies te reduceren.  
 - Geef de maatregel een naam, en maak meerdere maatregelen aan
 

@@ -49,4 +49,4 @@ Het totale effect van uw maatregelen wordt weergegeven. Wanneer dit naar tevrede
 
 ## Prognosecijfers
 
-De prognosecijfers kennen een grote onzekerheid, zeker nadat ze ruimtelijk zijn verdeeld over Nederland. De ontwikkeling van de emissies volgt de ontwikkeling van de gehele sector, dat hoeft \= voor een specifieke locatie niet representatief te zijn.  
+De prognosecijfers kennen een grote onzekerheid, zeker nadat ze ruimtelijk zijn verdeeld over Nederland. De ontwikkeling van de emissies volgt de ontwikkeling van de gehele sector, dat hoeft  voor een specifieke locatie niet representatief te zijn.  

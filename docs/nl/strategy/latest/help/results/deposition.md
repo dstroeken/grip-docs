@@ -1,3 +1,5 @@
+# Resultaten: Depositie 
+
 ## **Wat ziet u op dit scherm?**
 
 Deze depositieresultaten tonen gedetailleerde veranderingen in de opbouw van stikstofdepositie op uw gekozen doelgebied. Per sector ziet u de bijdrage, en de verandering hierin, in de tabel. De ruimtelijke verschillen op uw doelgebied kunt u zien op de kaart.

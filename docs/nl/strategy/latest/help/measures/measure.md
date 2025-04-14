@@ -1,4 +1,4 @@
-# Maatregel
+# Wat is een maatregel?
 
 Een maatregel is uw concrete plan om stikstofemissies op specifieke locaties te verminderen. Elke maatregel heeft twee componenten:
 

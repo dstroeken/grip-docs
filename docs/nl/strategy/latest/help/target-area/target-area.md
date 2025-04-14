@@ -1,4 +1,4 @@
-## Wat is een doelgebied?
+# Wat is een doelgebied?
 Een **doelgebied** is het Natura 2000-gebied waarop u de effecten van uw strategie wilt analyseren. Voor dit doelgebied krijgt u de stikstofdepositie in meerdere varianten: in het basisjaar 2023, in een prognosejaar en na het doorvoeren van uw strategie. U kunt een of meerdere doelgebieden kiezen, en voor al deze gebieden de resultaten bekijken.
 
 In de keuzelijst kunt u een selectie maken uit de Natura 2000-gebieden in Nederland. U kunt ook rechtstreeks op de kaart uw gewenste doelgebieden selecteren.
@@ -9,13 +9,14 @@ Per doelgebied kunt u een doel kiezen. Mogelijk zijn er beleidsdoelen voor dit n
 
 **Doel:** Verminderen van stikstofdepositie. 
 
-Dit kunt u op twee manieren uitdrukken: vermindering van de depositievracht, of van de gemiddelde depositie. 
+Dit kunt u op twee manieren uitdrukken: vermindering van de depositievracht, of vermindering van de gemiddelde depositie.
+
 **Depositievracht:** Totale jaarlijkse stikstofdepositie in het gehele gebied. Voer het doel in, uitgedrukt in:
+- Absolute reductie (mol N/j)  
+- Relatieve reductie t.o.v. 2023 (%)
 
-1. Absolute reductie (mol N/j)  
-   2. relatieve reductie t.o.v. 2023 (%)
-
-**Gemiddelde depositie:** Depositievracht gedeeld door de oppervlakte van de stikstofgevoelige natuur in het gebied. Dit doel is uitgedrukt in mol N/ha/j.
+**Gemiddelde depositie:** Depositievracht gedeeld door de oppervlakte van de stikstofgevoelige natuur in het gebied. 
+- Dit doel is uitgedrukt in mol N/ha/j.
 
 2. ### Minimale reductie op ieder hexagoon
 
@@ -48,7 +49,7 @@ Er zijn drie invoervelden.
 
 **Let op:** Wanneer er meerdere stikstofgevoelige habitats met verschillende KDW’s voorkomen op een hexagoon (16 hectare), dan wordt de strengste KDW gebruikt voor de gehele hexagoon. 
 
-\*\*Tip\*\* Om een doel op basis van de normale KDW in te stellen, stelt u in:  
+**Tip** Om een doel op basis van de normale KDW in te stellen, stelt u in:  
 factor \= 1.0  
 verhogingslimiet \= 0  
 en uw gewenste doeloppervlakte.

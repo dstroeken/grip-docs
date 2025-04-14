@@ -1,3 +1,4 @@
+# Resultaten: Emissie
 ## **Wat ziet u op dit scherm?**
 
 Dit resultaatscherm biedt een overzicht van de keuzes in uw strategie: het toont de emissie-effecten en de toepassingsgebieden waar de effecten zijn doorberekend.

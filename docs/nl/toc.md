@@ -1,7 +1,4 @@
-# Home
-
-## Over GRIP 
-
+# Over Grip
 GRIP is een rekentool die helpt bij het doorrekenen van strategieën om stikstofdepositie te verminderen. Ontwerp emissiereducerende strategieën, en reken door hoeveel depositiewinst dit oplevert.  
    
 U kunt een eigen strategie ontwerpen, daar meerdere maatregelen aan toevoegen en  daarmee handmatig een emissiereductie invoeren: 
@@ -41,13 +38,13 @@ Bij het creëren van één of meer maatregelen:
 
 GRIP gebruikt een Source-Receptor Matrix (SRM). In een SRM is de relatie vastgelegd tussen een bron (de emissies op een locatie), en de receptor (depositie op een andere locatie). Deze relatie is uitgerekend met OPS en in de matrix vastgelegd. Hierdoor kan GRIP snel berekenen wat veranderingen in stikstofdepositie zullen zijn bij een bepaalde strategie.
 
-## Hoe werkt het?
+## Hoe kan ik aan de slag?
 
 Kies **Ontwerp een strategie** om de applicatie te starten. In het volgende scherm wordt uitgelegd hoe de strategie moet worden ingevuld. Zodra de strategie af is, kunt u de resultaten berekenen. Bekijk en exporteer de resultaten vervolgens in het resultaatscherm. 
 
 ## Voorkeuren instellen ​
 
-Klik rechtsboven op 'Voorkeuren' om instellingen aan te passen. Op iedere pagina kunt u deze instellingen aanpassen.
+Klik rechtsboven op 'Voorkeuren' om instellingen aan te passen. Op iedere pagina kunt u deze instellingen aanpassen. 
 
-- Kies of u depositiewaarden in kg of mol wilt zien   
-- Bepaal of depositiecijfers zichtbaar zijn bij inzoomen op de kaart. 
+- Kies of u depositiewaarden in kg of mol wilt zien (zsm mogelijk)
+- Bepaal of depositiecijfers zichtbaar zijn bij inzoomen op de kaart (zsm mogelijk)

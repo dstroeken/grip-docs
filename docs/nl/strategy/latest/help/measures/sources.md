@@ -3,7 +3,7 @@
 In dit scherm kunt u daadwerkelijk aan de emissieknoppen gaan draaien. Met deze toepassing kunt u handmatig de effecten van een denkbare maatregel invoeren.   
 Houdt dus uw eigen maatregelen in het achterhoofd (en verander eventueel zelfs de naam van de maatregel daarin) en vul de te verwachten emissie-effecten van de maatregel hier in. 
 
-Uw strategie kan uit meerdere maatregelen bestaan, dus experimenteer vrijuit met de schuifjes om uw strategie vorm te geven op een manier die bij u past. Wanneer u tevreden bent over de totale emissiereductie van uw strategie kunt u de depositie-effecten gaan berekenen. Dit kan zo’n 10 minuten duren, dus zorg ervoor dat u de strategie goed heeft doordacht.
+Uw strategie kan uit meerdere maatregelen bestaan, dus experimenteer vrijuit met de schuifjes om uw strategie vorm te geven op een manier die bij u past. Wanneer u tevreden bent over de totale emissiereductie van uw strategie kunt u de depositie-effecten gaan berekenen. Dit kan tot zo’n 10 minuten duren, (of bij landelijke maatregelen zelfs langer) dus zorg ervoor dat u de strategie goed heeft doordacht.
 
 ## Stapsgewijze handleiding voor emissiereductie
 
