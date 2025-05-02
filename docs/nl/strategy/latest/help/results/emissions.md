@@ -1,4 +1,5 @@
-# Resultaten: Emissie
+# **Resultaatscherm Emissie**
+
 ## **Wat ziet u op dit scherm?**
 
 Dit resultaatscherm biedt een overzicht van de keuzes in uw strategie: het toont de emissie-effecten en de toepassingsgebieden waar de effecten zijn doorberekend.
@@ -16,13 +17,4 @@ Het effect is uitgesplitst naar sectoren, waarvoor meerdere statistieken worden 
 
 ### Kaart: Geografisch overzicht
 
-De kaart toont een geografisch overzicht van alle gebieden die een rol spelen in de strategie. De kaart toont:
-
-- De toepassingsgebieden van alle maatregelen in uw strategie samengenomen.  
-- De gekozen doelgebieden waar depositieberekeningen zijn uitgevoerd
-
-## Hoe interpreteert u de resultaten?
-
-- Vergelijk de uitkomsten van uw strategie met de emissies in het basisjaar en in het prognosejaar.  
-- Vergelijk de verschillende effecten per sector.  
-- Bekijk de geografische spreiding van uw maatregelen op de kaart.
+De kaart toont een geografisch overzicht van de toepassingsgebieden van alle maatregelen in uw strategie.

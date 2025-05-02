@@ -1,4 +1,4 @@
-# Resultaten: Depositie 
+# **Resultaatscherm Depositie**
 
 ## **Wat ziet u op dit scherm?**
 
@@ -10,24 +10,14 @@ De tabel toont de depositiewaarden in **mol N/ha/j** als gemiddelden voor het ge
 
 1. **Depositie 2023**: Oorspronkelijk depositieniveau in 2023, het jaar met de meest recente statistieken  
 2. **Depositie prognose**: Verwachte hoeveelheid depositie in het gekozen prognosejaar zonder effecten van uw strategie  
-3. **Depositie na strategie**: De stikstofdepositie na het doorrekenen van uw maatregelen  
-4. **Verschil strategie \- 2023**: Netto-effect van uw ingrepen, in vergelijking met het meest recente jaar 2023\.
+3. **Depositie na strategie**: De stikstofdepositie na het doorrekenen van uw maatregelen, ook weergegeven als verschil met 2023\.
 
-Regels:
+### Kaart: Geografisch overzicht
 
-* Per regel ziet u de bijdrage van verschillende sectoren.  
-* Het getoonde subtotaal van de sectoren is niet de werkelijke totale depositie. Daarvoor moeten ook de buitenlandse bronnen en de meetcorrectie worden meegenomen. Daarom wordt de volledige depositie in een aparte regel onder de tabel weergegeven
+De kaart toont de locatie van het geselecteerde doelgebied.
 
-### **Kaart: Ruimtelijke weergave**
-
-De kaart toont depositieverandering per hexagoon. Hiermee verschilt het van de tabel, waar de gemiddelden voor het hele doelgebied getoond worden. Per hexagoon (16 hectare) toont de kaart de gemiddelde depositie
-
-* Gedetailleerd beeld van lokale effecten op uw doelgebied  
-* Visualiseert ruimtelijke spreiding van de effecten van uw strategie
-
-## **Weergave aanpassen**
-
-Boven de kaart ziet u drie keuzelijsten, waarmee u de weergave kunt aanpassen. Hiermee veranderen de cijfers op de kaart en in de tabel.
+## **Selectie aanpassen**
+Boven de kaart ziet u twee keuzelijsten, waarmee u de weergave kunt aanpassen. Hiermee veranderen de data in de tabel.
 
 ### **Selector 1: Natura 2000-gebied**
 
@@ -40,6 +30,8 @@ Bekijk de resultaten voor alle stikstofgevoelige habitats, of kies ervoor om de 
 Opties:
 
 * Alle stikstofgevoelige habitats  
-* Alle prioritaire habitats  
+  * Dit zijn alle habitats binnen het Natura2000-gebied waarvoor de depositie is doorgerekend. Niet-stikstofgevoelige habitats zitten momenteel niet in GRIP.  
+* Alle prioritaire habitats   
+  * Dit zijn de urgente & zeer urgente habitats samen meegenomen.  
 * Alleen zeer urgente habitats  
 * Alleen urgente habitats

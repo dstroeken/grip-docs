@@ -3,13 +3,13 @@
 In dit scherm kunt u daadwerkelijk aan de emissieknoppen gaan draaien. Met deze toepassing kunt u handmatig de effecten van een denkbare maatregel invoeren.   
 Houdt dus uw eigen maatregelen in het achterhoofd (en verander eventueel zelfs de naam van de maatregel daarin) en vul de te verwachten emissie-effecten van de maatregel hier in. 
 
-Uw strategie kan uit meerdere maatregelen bestaan, dus experimenteer vrijuit met de schuifjes om uw strategie vorm te geven op een manier die bij u past. Wanneer u tevreden bent over de totale emissiereductie van uw strategie kunt u de depositie-effecten gaan berekenen. Dit kan tot zo’n 10 minuten duren, (of bij landelijke maatregelen zelfs langer) dus zorg ervoor dat u de strategie goed heeft doordacht.
+Uw strategie kan uit meerdere maatregelen bestaan, dus experimenteer vrijuit met de schuifjes om uw strategie vorm te geven op een manier die bij u past. Wanneer u tevreden bent over de totale emissiereductie van uw strategie kunt u de depositie-effecten gaan berekenen. Dit kan zo’n 10 minuten duren, dus zorg ervoor dat u de strategie goed heeft doordacht.
 
 ## Stapsgewijze handleiding voor emissiereductie
 
 ### 1\. Kies welke stof
 
-Kies eerst of u stikstofoxiden (NOx) of ammoniak (NH3) wilt reduceren met de knop rechtsboven. Vervolgens worden de emissies binnen uw gekozen toepassingsgebied getoond. U ziet eerst alleen de categorieën. Klik op de regel van een categorie, dan ziet u de onderliggende sectoren uitvouwen.
+Kies eerst of u stikstofoxiden (NO<sub>x</sub>) of ammoniak (NH<sub>3</sub>) wilt reduceren met de knop rechtsboven. Vervolgens worden de emissies binnen uw gekozen toepassingsgebied getoond. U ziet eerst alleen de categorieën. Klik op de regel van een categorie, dan ziet u de onderliggende sectoren uitvouwen.
 
 ### 2\. Kies een categorie en gebruik de schuifjes
 
@@ -47,6 +47,7 @@ Als u het emissieniveau van een van de sectoren wilt aanpassen, dan kunt u hier 
 2. **Kies voor een effect ten opzichte van het prognoseniveau.** In het prognoseniveau worden ook de autonome ontwikkelingen meegenomen die invloed hebben op de emissies, zoals economische groei en bestaand beleid. Wanneer u deze ontwikkelingen wilt meenemen in uw berekende situatie, dan kunt u het effect additioneel aan deze ontwikkelingen toepassen. Bereken dan wat het niveau zal zijn wanneer het effect op de prognose wordt toegepast, en stel het schuifje daar op in.  
 3. **Kies voor een exact emissieniveau.** Mogelijk heeft u geen reductie in gedachten, maar een exact emissieniveau van een sector. Verplaats dan het schuifje van die sector simpelweg naar dat niveau. 
 
-**Let op**: wees ervan bewust dat de emissies van alle sectoren worden ingesteld op het niveau van het prognosejaar, wat tot een verandering in depositie zal leiden in vergelijking met 2022, ook als u de schuifjes niet heeft verschoven. Wilt u dat niet? Kies dan het basisjaar 2023 in de uitgangspunten. 
+**Let op**: 
 
-**Opmerking**: U ziet alleen prognosecijfers wanneer u een prognosejaar heeft gekozen in de uitgangspunten van uw strategie.
+- U ziet alleen prognosecijfers wanneer u een prognosejaar heeft gekozen in de uitgangspunten van uw strategie.  
+- Ook de emissies van sectoren die u niet beïnvloedt zullen kunnen veranderen t.o.v. het basisjaar, wanneer u een prognosejaar kiest. Wilt u dat niet? Kies dan het basisjaar 2023 in de uitgangspunten, zodat de onaangeroerde sectoren contante emissies behouden.
