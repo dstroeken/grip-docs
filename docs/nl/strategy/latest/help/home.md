@@ -25,9 +25,9 @@ Dit noemen wij prognoses, en deze worden gepubliceerd door het Planbureau voor d
 
 2. ### Dataset
 
-Kies hier welke dataset er wordt gebruikt voor de stikstofemissie en \-depositie. Momenteel is alleen M23 beschikbaar. In de toekomst zullen er meerdere opties bijkomen.
+Kies hier welke dataset er wordt gebruikt voor de stikstofemissie en \-depositie. Momenteel is alleen M23+ beschikbaar. In de toekomst zullen er meerdere opties bijkomen.
 
-M23 staat voor Aerius Monitor 2023\. [Zie hier](https://www.rivm.nl/bibliotheek/rapporten/2023-0280.pdf) de documentatie van Monitor 2023\. 
+M23+ staat voor Aerius Monitor 2023 met toepassing van KEV 24\. [Zie hier](https://www.rivm.nl/bibliotheek/rapporten/2023-0280.pdf) de documentatie van Monitor 2023\. 
 
 ## Doel en Doelgebied
 
