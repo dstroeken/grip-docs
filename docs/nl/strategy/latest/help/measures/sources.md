@@ -50,4 +50,4 @@ Als u het emissieniveau van een van de sectoren wilt aanpassen, dan kunt u hier 
 **Let op**: 
 
 - U ziet alleen prognosecijfers wanneer u een prognosejaar heeft gekozen in de uitgangspunten van uw strategie.  
-- Ook de emissies van sectoren die u niet beïnvloedt zullen kunnen veranderen t.o.v. het basisjaar, wanneer u een prognosejaar kiest. Wilt u dat niet? Kies dan het basisjaar 2023 in de uitgangspunten, zodat de onaangeroerde sectoren contante emissies behouden.
+- Ook de emissies van sectoren die u niet beïnvloedt zullen kunnen veranderen t.o.v. het basisjaar, wanneer u een prognosejaar kiest. Wilt u dat niet? Kies dan het basisjaar 2023 in de uitgangspunten, zodat de onaangeroerde sectoren constante emissies behouden.
