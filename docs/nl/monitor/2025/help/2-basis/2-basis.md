@@ -8,3 +8,5 @@ Na selectie van een natuurgebied of hexagoon door te kiezen in de selector of te
 - Gebiedsnummer en -naam
 - Richtlijnen
 - Status
+
+De kaart toont de gemiddelde stikstofdepositie op stikstofgevoelige natuur per 16-ha hexagoon (zoom level 3). 

@@ -15,3 +15,5 @@ De mate van stikstofbelasting van de stikstofgevoelige natuur wordt onderverdeel
 - Heel lichtpaars (lichte overbelasting) geeft aan welk percentage van de oppervlakte van de stikstofgevoelige natuur belast wordt met een stikstofdepositie tussen 0 en 70 mol/ha/jaar boven de KDW.
 - Lichtpaars (matige overbelasting) geeft aan welk percentage van de oppervlakte van de stikstofgevoelige natuur belast wordt met een stikstofdepositie die hoger is dan 70 mol/ha/jaar boven de KDW en lager is dan 2 maal de KDW.
 - Donkerpaars (sterke overbelasting) geeft aan welk percentage van de oppervlakte van de stikstofgevoelige natuur belast wordt met een stikstofdepositie die hoger is dan 2 maal de KDW.
+
+Voor het jaar 2040 (doorkijkjaar) wordt de data alleen geagreggeerd per natuurgebied getoond.
