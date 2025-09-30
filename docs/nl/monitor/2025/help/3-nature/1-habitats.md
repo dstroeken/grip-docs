@@ -1,6 +1,6 @@
 ### Habitattypen/ leefgebieden
 
-De tabel toont het oppervlakte van alle relevante stikstofgevoelige habitattypen die in het gebied voorkomen. Daarbij zijn deze relevante habitattypen en leefgebieden gegroepeerd naar het niveau waarop doelstellingen worden vastgesteld. Deze doelstellingen – doelen voor oppervlakte en voor kwaliteit - zijn ook opgenomen in de tabel.
+De tabel toont de oppervlakte van alle relevante stikstofgevoelige habitattypen die in het gebied voorkomen. Daarbij zijn deze relevante habitattypen en leefgebieden gegroepeerd naar het niveau waarop doelstellingen worden vastgesteld. Deze doelstellingen – doelen voor oppervlakte en voor kwaliteit - zijn ook opgenomen in de tabel.
 
 Door een habitat of leefgebied te selecteren in de selector wordt de locatie op de kaart getoond. De habitats/ leefgebieden in de selector zijn niet gegroepeerd naar doelstellingsniveau. 
 
@@ -8,5 +8,5 @@ Het kan voorkomen dat bij sommige habitattypen of leefgebieden geen doelstelling
 
 De tabel geeft twee soorten oppervlaktes:
 
-- Het **ingetekende** oppervlakte is de totale oppervlakte waar de varianten van het betreffende habitattype of leefgebied op doelstellingsniveau kunnen voorkomen. Dit oppervlakte wordt berekend op basis van de aangeleverde karteringen (begrenzingen). Dit is wat je op kaart kan laten zien.
-- Het **gekarteerde** oppervlakte is het totale oppervlakte waarop de varianten van het betreffende habitattype daadwerkelijk voorkomen. Dit oppervlakte wordt berekend door het ingetekend oppervlakte te vermenigvuldigen met de tevens aangeleverde ‘dekkingsgraad’. Bijvoorbeeld, op een ingetekend gebied van 1 ha kan een dekkingsgraad gelden van bijvoorbeeld 50%. Dat betekent dat de helft van het ingetekende gebied daadwerkelijk bedekt is met het betreffende habitattype. Het gekarteerde oppervlak is dan 0,5ha.
+- De **ingetekende** oppervlakte is de totale oppervlakte waar de varianten van het betreffende habitattype of leefgebied op doelstellingsniveau kunnen voorkomen. Dit oppervlakte wordt berekend op basis van de aangeleverde karteringen (begrenzingen). Dit is wat je op kaart kan laten zien.
+- De **gekarteerde** oppervlakte is de totale oppervlakte waarop de varianten van het betreffende habitattype daadwerkelijk voorkomen. Dit oppervlakte wordt berekend door de ingetekende oppervlakte te vermenigvuldigen met de tevens aangeleverde ‘dekkingsgraad’. Bijvoorbeeld, op een ingetekend gebied van 1 ha kan een dekkingsgraad gelden van bijvoorbeeld 50%. Dat betekent dat de helft van het ingetekende gebied daadwerkelijk bedekt is met het betreffende habitattype. Het gekarteerde oppervlak is dan 0,5ha.

@@ -1,12 +1,17 @@
 ### Ontwikkeling stikstofbelasting
+Bekijk of de stikstofdepositie de kritische depositiewaarde overschrijdt, en hoe dit ontwikkelt in de tijd.
+
+#### Selector
+
+Indien er geen natuurgebied is geselecteerd, wordt de informatie voor heel Nederland getoond. Een Natura 2000-gebied kan worden geselecteerd om de gebiedsinformatie weer te geven. Binnen een gebied kan een habitat gekozen worden om de ontwikkeling van de stikstofbelasting voor dat habitattype te tonen.
+
+#### Grafiek
 
 De grafiek toont voor meerdere jaren de mate van stikstofbelasting van de stikstofgevoelige natuur. De mate van stikstofbelasting, uitgedrukt in een percentage, wordt gebruikt bij de toetsing aan de omgevingswaarden uit de Wet natuurbescherming. Een omgevingswaarde is een resultaatsverplichting voor de oppervlakte van de stikstofgevoelige natuur met een stikstofbelasting lager dan de kritische depositiewaarde (KDW). Voor de jaren 2025, 2030 en 2035 zijn omgevingswaarden vastgesteld op respectievelijk minimaal 40%, 50% en 74%. De omgevingswaarden gelden voor alle Nederlandse Natura 2000-gebieden samen en niet per gebied.
 
-U vindt de uitleg van de methode voor het berekenen van de mate van stikstofbelasting in paragraaf 5.5 van het handboek Data, te vinden via Over AERIUS Monitor.
-
 De kritische depositiewaarde is gedefinieerd als de grens waarboven het risico bestaat dat de kwaliteit van een habitat significant wordt aangetast door de verzurende en/of vermestende invloed van atmosferische stikstofdepositie.
 
-Indien er geen natuurgebied is geselecteerd, wordt de informatie voor heel Nederland getoond. Een Natura 2000-gebied kan worden geselecteerd om de gebiedsinformatie weer te geven. Binnen een gebied kan een habitat gekozen worden om de ontwikkeling van de stikstofbelasting voor dat habitattype te tonen.
+#### Categorieën stikstofbelasting
 
 De mate van stikstofbelasting van de stikstofgevoelige natuur wordt onderverdeeld in vijf categorieën:
 
@@ -16,4 +21,12 @@ De mate van stikstofbelasting van de stikstofgevoelige natuur wordt onderverdeel
 - Lichtpaars (matige overbelasting) geeft aan welk percentage van de oppervlakte van de stikstofgevoelige natuur belast wordt met een stikstofdepositie die hoger is dan 70 mol/ha/jaar boven de KDW en lager is dan 2 maal de KDW.
 - Donkerpaars (sterke overbelasting) geeft aan welk percentage van de oppervlakte van de stikstofgevoelige natuur belast wordt met een stikstofdepositie die hoger is dan 2 maal de KDW.
 
-Voor het jaar 2040 (doorkijkjaar) wordt de data alleen geagreggeerd per natuurgebied getoond.
+#### Jaartallen
+
+De jaren zijn verdeeld in historische jaren, prognosejaren en doorkijkjaren. Voor ieder van deze jaren is de emissiedata op een andere manier tot stand gekomen. De data voor historische jaren is berekend met door het CBS verzamelde emissiestatistieken op een hoog ruimtelijk detailniveau. De prognosejaren zijn gebaseerd op emissieprognoses van het Planbureau voor de Leefomgeving, waarin bestaand beleid en economische ontwikkelingen worden meegenomen. De prognoses voor de doorkijkjaren kennen een grotere onzekerheid dan voor de prognosejaren, en daarom wordt voor deze jaren maar een beperkt aantal depositiestatistieken doorgerekend.
+
+#### Kaart
+
+Voor het geselecteerde habitattype toont de kaart per hexagoon de afstand tot de KDW. Dit wordt weergegeven in de verschillende categoriën voor overschrijding. Het meest gedetailleerde schaalniveau is zoom level 3 (16 ha). Wanneer wordt uitgezoomd tot zoom level 4, wordt voor deze hexagonen de data van het middelste zoom level 3 hexagoon getoond.
+
+U vindt de uitleg van de methode voor het berekenen van de mate van stikstofbelasting in paragraaf 5.5 van het [handboek Data](https://link.aerius.nl/monitor/handboeken).
