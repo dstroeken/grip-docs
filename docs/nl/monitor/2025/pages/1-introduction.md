@@ -14,7 +14,7 @@ Om een beeld te krijgen van de stikstofproblematiek in relatie tot natuur, worde
 
 De gegevens in AERIUS Monitor zijn als JSON en als GeoPackage te downloaden. 
 * Download hier een [GeoPackage](https://link.aerius.nl/monitor/geopackage-monitor-2025.zip) met voor ieder zoom level 3 hexagoon de KDW en de stikstofbelasting per jaar.
-* Om zelf analyses uit te voeren met gegevens, gebruik de Monitor API (een programmeerinterface). Ga naar de [AERIUS Monitor API](https://fame.aerius.nl/api/swagger-ui/index.html) om de gegevens die AERIUS Monitor gebruikt, te downloaden als JSON.
+* Om zelf analyses uit te voeren met gegevens, gebruik de Monitor API (een programmeerinterface). Ga naar de [AERIUS Monitor API](https://fame2025.aerius.nl/api/swagger-ui/index.html) om de gegevens die AERIUS Monitor gebruikt, te downloaden als JSON.
 
 ### Voorkeuren instellen
 
