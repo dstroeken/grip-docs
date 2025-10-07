@@ -1,6 +1,6 @@
 ## Dataverantwoording
 
-AERIUS Monitor toont informatie over natuurgebieden en depositiegegevens. De achterliggende gegevens zijn afkomstig uit de monitoring stikstofdepositie in Natura 2000-gebieden, en worden ook toegepast in andere AERIUS-producten. AERIUS Monitor toont op onderdelen meer gegevens dan de andere producten. Beschrijving van de methodiek is te vinden in [de monitoringsrapportages](https://www.rivm.nl/publicaties/monitor-stikstofdepositie-in-natura-2000-gebieden-2025) (rivm.nl). Voor een overzicht van de in AERIUS getoonde data, zie het [AERIUS handboek Data](https://www.aeriusproducten.nl/documenten/publicaties/2024/10/1/aerius-handboek-data-2024).
+AERIUS Monitor toont informatie over natuurgebieden en depositiegegevens. De achterliggende gegevens zijn afkomstig uit de monitoring stikstofdepositie in Natura 2000-gebieden, en worden ook toegepast in andere AERIUS-producten. AERIUS Monitor toont op onderdelen meer gegevens dan de andere producten. Beschrijving van de methodiek is te vinden in [de monitoringsrapportages](https://www.rivm.nl/publicaties/monitor-stikstofdepositie-in-natura-2000-gebieden-2025) (rivm.nl). Voor een overzicht van de in AERIUS getoonde data, zie het [AERIUS handboek Data](https://link.aerius.nl/monitor/handboeken).
 
 ## Datasets
 
