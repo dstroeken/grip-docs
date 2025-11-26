@@ -60,7 +60,7 @@ To preview the built project, run the following command:
 npm run docs:preview
 ```
 
-This will start a local server serving the `dist` directory. Open your browser and navigate to `http://localhost:8080` to view the website.
+This will start a local server serving the `dist` directory. Open your browser and navigate to `http://localhost:4137` to view the website.
 
 ## Repository structure
 
